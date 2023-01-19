@@ -1,4 +1,4 @@
-# Magnus Effect - The Physics of Football. 
+# Magnus Effect - The Physics of Football
 ## Abstract
 Often in the field of sports, we see examples of curveballs swerving their way around players and following an interesting curved trajectory. 
 This happens because of the Magnus Effect, which relies on the spin of the ball and drag force to generate areas of high and low pressure, which results in such a path. 
